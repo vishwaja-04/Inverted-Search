@@ -23,11 +23,10 @@ Instead of searching each file individually, the application creates an index of
 - Command-Line Arguments: "argc" and "argv".
 - Compiler: GCC
 
-   Learning Outcomes
+ Learning Outcomes
 
 - Gained practical experience in C programming.
 - Understood hash tables and linked-list-based data structures.
 - Learned to organize and retrieve data using an inverted index.
 - Improved knowledge of pointers and dynamic memory allocation.
 - Practised file handling and command-line argument processing.
-- Developed skills in modular programming and input validation.
