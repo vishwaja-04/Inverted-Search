@@ -1,0 +1,11 @@
+[0] [are] 1files : file : file1.txt : 1times
+[7] [how] 1files : file : file1.txt : 1times
+[7] [hello] 2files : file : file1.txt : 3timesfile : file2.txt : 1times
+[7] [hi] 2files : file : file1.txt : 6timesfile : file2.txt : 1times
+[8] [inverted] 1files : file : file2.txt : 1times
+[8] [is] 1files : file : file2.txt : 1times
+[15] [project.] 1files : file : file2.txt : 1times
+[18] [search] 1files : file : file2.txt : 1times
+[19] [this] 1files : file : file2.txt : 1times
+[24] [you] 1files : file : file1.txt : 1times
+[26] [?] 1files : file : file1.txt : 1times
